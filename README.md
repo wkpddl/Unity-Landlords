@@ -1,0 +1,3 @@
+# Unity联机斗地主
+gamecard是前端代码 资源文件自己找 直接新创一个unity2d项目 放入assert文件夹就可以
+server是服务器代码 直接启动即可 其中有一个C#2JAVA是使用java代码复现 二者启动一个即可连接
